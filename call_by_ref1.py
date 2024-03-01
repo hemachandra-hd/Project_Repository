@@ -26,3 +26,5 @@ print(id(List1))
 print("List before function call :", List1)
 myFunc(List1)
 print("List after function call: ", List1)
+
+print("List after function call: ", List1)
